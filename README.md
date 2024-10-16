@@ -8,7 +8,7 @@ I'm Likitha, a passionate student exploring the world of coding. 🚀
 - Exploring the world of CyberSecurity
 
 🌱 Currently Learning
-- Web development with HTML, CSS, and JavaScript
+- Learning cybersecurity skills and participating in Capture The Flag (CTF) challenges to enhance my problem-solving abilities.
 
 😄 Pronouns : She/Her
 
